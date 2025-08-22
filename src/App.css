@@ -56,8 +56,8 @@ body{
     color: rgb(4 3 3) !important;
 }
 .card-img-top{
-    width: 100%;
-    height: 25rem;
+    height: auto;
+    width: auto;
     object-fit: cover;
 }
 .text-overflow-2{
