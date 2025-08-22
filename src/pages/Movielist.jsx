@@ -21,7 +21,7 @@ export const Movielist =({title , apiPath})=>{
                 
                     
                     <button className="btn btn-primary" onClick={()=>{
-                        navigator("/movies/upcomming");}}>Explore Now</button>
+                        navigator("/movies/upcoming");}}>Explore Now</button>
                
                 </div>):""}
                 
